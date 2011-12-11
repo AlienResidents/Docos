@@ -1,2 +1,2 @@
-= This repository contains miscellaneous documents that I've written about
+= This repository contains miscellaneous documents that I've written about \
 recent projects =
